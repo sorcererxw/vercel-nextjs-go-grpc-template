@@ -1,0 +1,5 @@
+[mysql]
+dsn = "tcp(localhost:3306)/dev?parseTime=true"
+
+[redis]
+dsn = "redis://localhost:3306"

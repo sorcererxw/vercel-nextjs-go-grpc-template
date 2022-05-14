@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/api/.*",
+      "dest": "/api/api.go"
+    },
+    {
+      "src": "/api.v1.API/.*",
+      "dest": "/api/api.go"
+    }
+  ]
+}
