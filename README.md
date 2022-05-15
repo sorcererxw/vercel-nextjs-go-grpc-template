@@ -12,12 +12,12 @@ personal [projects](https://sorcererxw.com/projects).
     - react
     - next.js
     - tailwindcss
-    - grpc-web
+    - grpc-web (with swr for react hooks)
     - eslint
 - backend
     - golang
     - grpc-web
-    - mysql (sqlx)
+    - mysql (with sqlx)
     - redis
     - echo (http router)
 
